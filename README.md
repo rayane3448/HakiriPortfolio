@@ -21,7 +21,7 @@ Bienvenue sur mon portfolio. Vous trouverez ici mes projets réalisés tout au l
 - 📌 Description : Impact des paramètres agissants dans le réchauffant climatique sur les catastrophes naturelles au cours des dernières années
 
 ## 🤖 Projet 4 : Modèle de Machine Learning et Analyse de Données Semestre 4 Licence 2 Module Science des Données 2
-- 📁 Dossier : [`Projet Science des Données 2 Semestre 4`](ProjetSDD2Semestre4)
+- 📁 Dossier : [`Projet Science des Données 2 Semestre 4`](https://github.com/rayane3448/HakiriPortfolio/blob/8b748d8b5bfd3680e92764b7a9ab8e4e19a6bf13/rapportL2S1.pdf)
 - 🧰 Langages et Outils utilisés : Python/ R / Excel / SQL
 - 📌 Description : Comment le sexe et la localisation g´eographique influencent-ils l’incidence et la manifestation des pathologies ?
 
