@@ -27,7 +27,7 @@ Bienvenue sur mon portfolio. Vous trouverez ici mes projets réalisés tout au l
 
 
 ## 🤖 Projet 5 : Modèle de Machine Learning et Analyse de Données Semestre 3 Licence 2 Module Science des Données 1
-- 📁 Dossier : [`Projet Science des Données 2 Semestre 4`](ProjetSDD2Semestre4)
+- 📁 Dossier : [`Projet Science des Données 1 Semestre 3`](https://github.com/rayane3448/HakiriPortfolio/blob/60f14be26149c8d8dbf72e5580ebe7e2ddd75e1c/hakiri%20siwar_Mazeline%20Robin.pdf)
 - 🧰 Langages et Outils utilisés : Orange
 - 📌 Description : Classification supervisé pour l’analyse dela Cirrhose Et Classification non supervisé pour l’analyse de textes ayant pour thème la technologie
 ---
