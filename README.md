@@ -11,7 +11,7 @@ Bienvenue sur mon portfolio. Vous trouverez ici mes projets réalisés tout au l
 
 ---
 ## 🤖 Projet 2 : Modèle de Machine Learning et Analyse de Données Semestre 6 Module Science des Données 4
-- 📁 Dossier : [`Projet Science des Données 4 Semestre 6`](projets/projet-science-desdonnees-semestre-6/)
+- 📁 Dossier : [`Projet Science des Données 4 Semestre 6`](https://github.com/rayane3448/HakiriPortfolio/blob/d30f92313bb784e9923d22e6684ad9e548019da7/Rapport%20SDD4%20Hakiri%20Siwar%20Benramdane%20Rayane.pdf)
 - 🧰 Langages et Outils utilisés : Python/ Power BI / Excel / SQL
 - 📌 Description : Etude des liens entre l'environnement social et les maladies en France Métropolitaine + Prédiction et Classification de Maladies les plus fréquentes par département
 
